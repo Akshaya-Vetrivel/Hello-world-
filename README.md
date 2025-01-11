@@ -20,7 +20,7 @@ public class HelloWorld {
 O/P
 
 run:
-The entered num is even
+Hello!Welcome to java
 BUILD SUCCESSFUL (total time: 0 seconds)
 
 _____________________________________
